@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3576EF7A-40A8-490C-BBE0-51221AC1EBCC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03A555B5-E0B8-497C-B01F-36297F74DF7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM+Clean/Coordinator/FirstTabCoordinator/FirstTabCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99ACBE19-E25B-4F48-B6B0-0D865877E838"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM+Clean/Coordinator/SecondTabCoordinator/SecondTabCoordinatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6432E8F8-E425-4685-AB22-DDD67963434B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM+Clean/Coordinator/SecondTabCoordinator/SecondTabCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "showDetails(user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ACD2711-F4D8-43CF-8F39-7A89740968B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM+Clean/Presentation/SecondTabDetailsView/SecondTabDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "bind()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E664D58D-8AB8-4387-9D43-1571D3E4073A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM+Clean/Coordinator/AppCoordinator/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "setupBindings()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0FD8D78-C6CC-4F2F-92F1-DB789D2687C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM+Clean/Coordinator/AppCoordinator/AppCoordinatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A0FD8D78-C6CC-4F2F-92F1-DB789D2687C7 - 21f89a0d675ab516"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; MVVM_Clean.SignInView in MVVM_Clean.AppCoordinatorView.body.getter : some"
+                  moduleName = "MVVM+Clean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriygonchar/Documents_NoCloud/MVVM+Clean/MVVM+Clean/Coordinator/AppCoordinator/AppCoordinatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "A0FD8D78-C6CC-4F2F-92F1-DB789D2687C7 - 931c13df661f2c9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; MVVM_Clean.FirstTabCoordinatorView in MVVM_Clean.AppCoordinatorView.body.getter : some"
+                  moduleName = "MVVM+Clean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriygonchar/Documents_NoCloud/MVVM+Clean/MVVM+Clean/Coordinator/AppCoordinator/AppCoordinatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "A0FD8D78-C6CC-4F2F-92F1-DB789D2687C7 - 21f89a0d675ab516"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; MVVM_Clean.SignInView in MVVM_Clean.AppCoordinatorView.body.getter : some"
+                  moduleName = "MVVM+Clean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriygonchar/Documents_NoCloud/MVVM+Clean/MVVM+Clean/Coordinator/AppCoordinator/AppCoordinatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DADD733-ADB0-4506-9255-DDC17DEE8983"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM+Clean/Coordinator/AppCoordinator/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "showSignIn()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DADD733-ADB0-4506-9255-DDC17DEE8983 - f8f3e91be9711d7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVM_Clean.SignInTransition) -&gt; () in MVVM_Clean.AppRootCoordinator.showSignIn() -&gt; MVVM_Clean.SignInViewModel"
+                  moduleName = "MVVM+Clean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriygonchar/Documents_NoCloud/MVVM+Clean/MVVM+Clean/Coordinator/AppCoordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "0DADD733-ADB0-4506-9255-DDC17DEE8983 - f8f3e91be9711d7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVM_Clean.SignInTransition) -&gt; () in MVVM_Clean.AppRootCoordinator.showSignIn() -&gt; MVVM_Clean.SignInViewModel"
+                  moduleName = "MVVM+Clean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriygonchar/Documents_NoCloud/MVVM+Clean/MVVM+Clean/Coordinator/AppCoordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C165CEF-1F07-42AD-8AD2-8B914813CB8E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM+Clean/Presentation/SecondTabDetailsView/SecondTabDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init(user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5C165CEF-1F07-42AD-8AD2-8B914813CB8E - 99a8c458cb47044f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM_Clean.SecondTabDetailsViewModel.init() -&gt; MVVM_Clean.SecondTabDetailsViewModel"
+                  moduleName = "MVVM+Clean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriygonchar/Documents_NoCloud/MVVM+Clean/MVVM+Clean/Presentation/SecondTabDetailsView/SecondTabDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "5C165CEF-1F07-42AD-8AD2-8B914813CB8E - cba542be06a322f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM_Clean.SecondTabDetailsViewModel.init(user: MVVM_Clean.GithubUser) -&gt; MVVM_Clean.SecondTabDetailsViewModel"
+                  moduleName = "MVVM+Clean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriygonchar/Documents_NoCloud/MVVM+Clean/MVVM+Clean/Presentation/SecondTabDetailsView/SecondTabDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA6D60D6-E694-47CC-A349-EF1F7663A978"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM+Clean/Presentation/SecondTabRootView/SecondTabRootViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "retrieveGithubUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
