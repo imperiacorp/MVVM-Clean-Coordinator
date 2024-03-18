@@ -12,20 +12,20 @@ The skeleton of the project is based on the modular architecture MVVM + C with c
 * Coordinator - classes for coordinator and routing.
 * Data:
     * Requests - classes constructors of network requests 
-    * UseCases - contain application-specific business rules and orchestrate the flow of data between the entities and the external world. 
-    * Entities - are the core of the application and represent the business logic
-    * Interfaces - for storing global constants
+    * UseCases - classes that contain application-specific business rules and orchestrate the flow of data between the entities and the external world. 
+    * Entities - classes that represent the core concepts and rules of your system, regardless of the specific use cases that the system will support (entities are designed to be pure data structures that are independent of the application's use cases and infrastructure).
+    * Interfaces
         * Repositories (interfaces)
 * Domain:
-    * Network - directory with classes for networking
-    * Repositories (implementations)
+    * Network - classes for networking
+    * Repositories (implementations) - classes that encapsulate the logic required to access data sources.
     * Storage - directory with classes for storage (CoreData, Realm, UserDefaults etc.)
 * Presentation - layer for all flows with modules and controllers
 * Resources - for storing core resources (localization, fonts, images, colors)
 
-![Folder Skeleton](/README_FILES/ProjectStructure.png)
+<img src="/README_FILES/ProjectStructure.png" alt="drawing" width="359" height="721"/>
 
-The application life cycle begins with the MVVM_CleanApp, where the AppCorrdinator starts. . The coordinator pattern allows you to facilitate and decompose the routing of all screens within an application. The main coordinator of the AppCoordinator defines the entry point of the application.
+The application life cycle begins with the MVVM_CleanApp, where the AppCorrdinator starts. The coordinator pattern allows you to facilitate and decompose the routing of all screens within an application. The main coordinator of the AppCoordinator defines the entry point of the application.
 
 Each module consists of an MVVM architecture standard and it has own transion object which sends signals to the coordinator. There is a main ApplicationCoordinator which contains subcoordinators.
 
@@ -40,22 +40,3 @@ Developed By
 ------------
 
 * Honchar Dmytro, CHI Software
-
-
-License
---------
-
-Copyright 2021 CHI Software.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
